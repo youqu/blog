@@ -1,4 +1,4 @@
-title: "有趣的博客"
+title: "月光の云海"
 languageCode: "zh-CN"
 baseurl: "http://gozkj.com"
 copyright: "Copyright (c) 2015-2016. zhaokaiju All rights reserved."
@@ -21,13 +21,16 @@ params:
   GitHubUser: "youqu"
   SidebarRecentLimit: 5
   DateForm : "2006年01月02日"
-  Tagline: "有趣的博客"
-  Description: "高效率，慢生活。"
+  Tagline: ""
+  Description: "精进自己，分享他人！"
   Keywords: "独立博客,程序员,思考,阅读笔记,技术分享"
   Categories:
     - "读书笔记"
     - "技术学习"
+    - "旅行运动"
     - "思考感悟"
+    - "手艺学习"
+    - "综合学习"
 menu:
   main:
       - Name: "归档"
@@ -41,7 +44,7 @@ menu:
         Weight: -100
         URL: "/about/"
 author:
-  name: "zhaokaiju"
+  name: "月光の云海"
 
 images:
   - 480x
