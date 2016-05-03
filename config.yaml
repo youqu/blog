@@ -2,7 +2,6 @@ title: "有趣的博客"
 languageCode: "zh-CN"
 baseurl: "http://gozkj.com"
 copyright: "Copyright (c) 2015-2016. zhaokaiju All rights reserved."
-theme: "hugo-rapid-theme"
 MetaDataFormat: "yaml"
 canonifyurls: true
 builddrafts: false
@@ -19,15 +18,15 @@ Taxonomies:
   category: "categories"
 params:
   CopyrightHTML: "Copyright &#xA9; 2015-2016. zhaokaiju All Rights Reserved."
-  GitHubUser: "coderzh"
+  GitHubUser: "youqu"
   SidebarRecentLimit: 5
   DateForm : "2006年01月02日"
   Tagline: "有趣的博客"
   Description: "高效率，慢生活。"
-  Keywords: "独立博客,程序员,思考,读书笔记,技术分享"
+  Keywords: "独立博客,程序员,思考,阅读笔记,技术分享"
   Categories:
     - "读书笔记"
-    - "技术文章"
+    - "技术学习"
     - "思考感悟"
 menu:
   main:

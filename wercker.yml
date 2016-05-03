@@ -1,0 +1,20 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: 0.14
+        theme: rapid
+        config: config.yaml
+        flags: --buildDrafts=true
+    - install-packages:
+        packages: git ssh-client
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - leipert/git-push:
+         gh_oauth: $GIT_TOKEN
+         gh_pages: true
+         repo: youqu/youqu.github.io
+         branch: master
+         basedir: public
