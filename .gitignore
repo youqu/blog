@@ -12,3 +12,5 @@ syncFolders*
 /refs
 /index
 /logs
+.DS_Store
+.DS_Store?
