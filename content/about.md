@@ -1,6 +1,9 @@
 ---
 keywords:
-- 有趣
+- 月光の云海
+- zhaokaiju
+
+
 tags:
 - 个人简介
 title: 关于我
@@ -10,7 +13,7 @@ url: /about/
 
 
 <p class="message">
-大家好，我叫有趣，是一名互联网从业者，现在在做Java相关软件的开发。
+大家好，我叫月光の云海，是一名互联网从业者，现在在做Java相关软件的开发。
 </p>
 
 Act Different, Think Different, Make a Difference!
@@ -19,5 +22,9 @@ Act Different, Think Different, Make a Difference!
 
 * 微信公众号：zhaokaiju
 * 个人网站：[http://www.zhaokaiju.com](http://www.zhaokaiju.com)
+
+### 特别提示
+
+* 本博客的内容已迁移到[http://www.zhaokaiju.com](http://www.zhaokaiju.com)
  
 ---
