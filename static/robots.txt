@@ -1,4 +1,4 @@
 User-Agent: *
-Allow: /
+Disallow: /
 
-Sitemap: http://gozkj.com/sitemap.xml
+Sitemap: http://www.gozkj.com/sitemap.xml
